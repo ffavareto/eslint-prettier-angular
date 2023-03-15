@@ -19,7 +19,7 @@ function multiplicarPorDez(numero) {
 }
 ```
 
-A diferença entre um código e outra não é tão grande, ambos funcionam, mas ver essas diferenças em um mesmo projeto não fica lega, e é sempre bom lembrar que devemos cuidar do código com muito carinho, nem sempre é possível no meio da correria, mas sempre que puder melhorar é ótimo, e o que será apresentado aqui não vai custar quase nada de esforço e deixará seu código e dos seus colegas de trabalho bem mais padronizado, por mais que cada um tenha suas particularidades na hora de escrever as letrinhas coloridas na tela.
+A diferença entre um código e outra não é tão grande, ambos funcionam, mas ver essas diferenças em um mesmo projeto não fica legal, e é sempre bom lembrar que devemos cuidar do código com muito carinho, nem sempre é possível no meio da correria, mas sempre que puder melhorar é ótimo, e o que será apresentado aqui não vai custar quase nada de esforço e deixará seu código e dos seus colegas de trabalho bem mais padronizado, por mais que cada um tenha suas particularidades na hora de escrever as letrinhas coloridas na tela.
 
 ---
 
