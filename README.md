@@ -1,4 +1,4 @@
-# ESLint - Angular
+# Configurar ESLint + Prettier no Angular
 
 <aside>
 🗣 O que nós programadores fazemos: escrevemos letrinhas coloridas em algum editor de código.
